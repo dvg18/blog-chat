@@ -1,0 +1,11 @@
+{
+    "name": "dmitriy/blog-chat",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gerasimov Dmitriy",
+            "email": "dv.ger@ya.ru"
+        }
+    ],
+    "require": {}
+}
